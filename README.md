@@ -13,8 +13,8 @@ This is my first local change to the repo!
 **Bold Text** or _Bold Text_
 *Italic Text*
 
-_Item 1
-_Item 2
+- Item 1
+- Item 2
   - Subitem 2.1
   - Subitem 2.2
 
