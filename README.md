@@ -19,34 +19,15 @@ Our group chose Piet Mondrian’s Broadway Boogie Woogie. This work features str
 [Link Text](https://canvas.sydney.edu.au/courses/64347/pages/week-10-lecture?module_item_id=2585760)
 ### Part 2: Coding Technique Exploration
 This section focuses on linking music to visual elements. Using FFT.waveform() to analyze amplitude over time and FFT.analyze() for frequency-domain data, I will map audio dynamics directly to block dimensions. By retrieving waveform[index] values, I use int() and map() to convert audio signals into meaningful visual sizes, setting block width and height accordingly. For particle effects, I adapted a loop-based system inspired by a p5.js sketch. With each frame, if a randomly generated value (random()) was lower than waveform[index], a new particle would be created. As amplitude increases, so does the particle count, while changes in block dimensions also influence particle speed—creating a rich, rhythm-responsive visual experience.
-
-####
-#####
-###### 
-
-
-**Bold Text** or _Bold Text_
-*Italic Text*
-
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-
-1. First Item
-2. Second Item
-3. Third Item
-
-[Link Text](https://www.google.com)
-
-![An image of a cat](https://placekitten.com/200/300)
-
-![An image of the Mona Lisa](readmeimages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
+- Code Used
 ```
-function helloWorld() {
-console.log("Hello, world!");
-}
+FFT.waveform()
+FFT.analyze()
+int()
+map()
+random()
 ```
-
-> This is a blockquote.
+[Link Text](https://p5js.org/reference/p5.sound/p5.FFT/)
+[Link Text](https://p5js.org/reference/p5.sound/p5.FFT/)
+[Link Text](https://p5js.org/reference/p5/map/)
+[Link Text](https://p5js.org/reference/p5/random/)
