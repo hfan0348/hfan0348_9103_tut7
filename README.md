@@ -1,9 +1,7 @@
 # hfan0348_9103_tut7
-My first repository for IDEA9103
-
-This is my first local change to the repo! 
-
-# Header 1
+My design research for IDEA9103
+# Final Project: Broadway Boogie Woogie (Piet Mondrian)
+![An image of the Mona Lisa](readmeimages\Piet_Mondrian_Broadway_Boogie_Woogie.jpeg)
 ## Header 2
 ### Header 3
 ####
