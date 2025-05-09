@@ -1,7 +1,7 @@
 # hfan0348_9103_tut7
 My design research for IDEA9103
 # Final Project: Broadway Boogie Woogie (Piet Mondrian)
-![An image of the Mona Lisa](readmeimages\Piet_Mondrian_Broadway_Boogie_Woogie.jpeg)
+![An image of Broadway Boogie Woogie](readmeimages/Piet_Mondrian_Broadway_Boogie_Woogie.jpeg)
 ## Header 2
 ### Header 3
 ####
