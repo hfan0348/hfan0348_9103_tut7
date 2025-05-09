@@ -27,7 +27,12 @@ int()
 map()
 random()
 ```
+
+1. FFT.waveform() & FFT.analyze()
 [Link Text](https://p5js.org/reference/p5.sound/p5.FFT/)
-[Link Text](https://p5js.org/reference/p5.sound/p5.FFT/)
+2. int()
+[Link Text](https://p5js.org/reference/p5/int/)
+3. map()
 [Link Text](https://p5js.org/reference/p5/map/)
+4. random()
 [Link Text](https://p5js.org/reference/p5/random/)
